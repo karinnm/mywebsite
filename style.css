@@ -1,0 +1,23 @@
+h1 {
+color:white;
+font-family:helvetica;
+margin-left: 300px;
+padding: 25px;
+}
+
+body {
+background-color:teal;
+}
+
+img {
+border: 10px solid white;
+width: 30%;
+height: 30%;
+margin-left: 325px;
+}
+
+p {
+  color: white;
+  margin-left: 325px;
+  padding: 5px
+}
